@@ -30,7 +30,7 @@ dependencies = [
 ]
 description = "Add your description here"
 name = "array-typing"
-readme = "README.md"
+readme = "docs/README.md"
 requires-python = ">=3.11"
 version = "0.0.0"
 

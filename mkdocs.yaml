@@ -1,5 +1,5 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
-site_name: Toolkit
+site_name: Array Typing
 site_url:
   !ENV [
     SITE_URL,
