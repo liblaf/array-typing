@@ -31,6 +31,7 @@
     "pymdownx",
     "pypa",
     "pypackages",
+    "pypi",
     "pyplot",
     "pyrightconfig",
     "pytest",
@@ -41,6 +42,7 @@
     "scrapy",
     "sdist",
     "trimesh",
+    "unshallow",
     "venv"
   ],
   "ignorePaths": [
