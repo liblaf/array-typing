@@ -10,7 +10,7 @@ nav = Nav()
 root: Path = Path(__file__).parent.parent.parent
 docs_dir: Path = root / "docs"
 src_dir: Path = root / "src"
-pkg_dir: Path = src_dir / "toolkit"
+pkg_dir: Path = src_dir / "array_typing"
 for path in sorted(pkg_dir.rglob("*.py")):
     module_path: Path = path.relative_to(src_dir).with_suffix("")
     doc_path: Path = path.relative_to(src_dir).with_suffix(".md")
