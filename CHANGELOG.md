@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.1](https://github.com/liblaf/array-typing/compare/v0.0.0...v0.0.1) (2024-11-24)
+
+
+### 👷 Build System
+
+* configure Read the Docs for automated documentation builds ([d9db2c8](https://github.com/liblaf/array-typing/commit/d9db2c8f8af56a8d1a830a53f5ff74b55cce9b7a))
+
 ## 0.0.0 (2024-11-23)
 
 
